@@ -1,1 +1,1 @@
-print("Check thu")
+print("OK")
