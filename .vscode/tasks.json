@@ -2,6 +2,7 @@
     "tasks": [
         {
             "type": "cppbuild",
+<<<<<<< HEAD
             "label": "C/C++: gcc.exe build active file",
             "command": "C:\\msys64\\mingw64\\bin\\gcc.exe",
             "args": [
@@ -27,6 +28,10 @@
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
             "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+=======
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\MinGW\\bin\\g++.exe",
+>>>>>>> 762d59d1182237c4bbe3bffa5da6eb88a1e69ba0
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
